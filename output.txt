@@ -1,0 +1,3 @@
+Halo, ini adalah data pertama!
+Python sangat menyenangkan.
+Baris tambahan dalam file.
